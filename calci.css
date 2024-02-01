@@ -62,12 +62,13 @@ body{
         height:14vh;
         width:89%;
         margin-bottom: 2vw;
+        font-size: 7vw;
     }
     .calcibtn{
         width:19vw;
         height:9.5vh;
         margin:2vw;
-        
+        font-size: 7vw;
     }
     .row{
         width:95vw;
